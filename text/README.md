@@ -228,7 +228,7 @@ This project is licensed under the MIT License.
 
 ## 📞 Support
 
-For support, email pranavmurthy03@gmail.com or create an issue in this repository.
+For support, email sartha17.chillal@gmail.com or create an issue in this repository.
 
 ---
 
